@@ -1,5 +1,5 @@
 # Quiz_app
-A simple and interactive quiz application built using **HTML**, **CSS**, and **JavaScript**. The app dynamically displays quiz questions, tracks the user's score, and provides feedback at the end of the quiz.
+A simple and interactive quiz application built using **HTML**, **CSS**, and **JavaScript**. The app dynamically displays quiz questions, tracks the user's score, and provides score at the end of the quiz.
 
 ## Features
 
